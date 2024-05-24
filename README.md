@@ -13,7 +13,7 @@ when in/is
 ready, do
 and or <br>
 d'nt.<br>
-¡ True; each card ruled !<br>
+<a>¡ True; each card ruled !</a><br>
 
 To describe different databases, 
 each rule set you could apply! 
