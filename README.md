@@ -47,9 +47,19 @@ could use to store and say:
 "The right, regular order."
 And as large as you'd need... TRUE.
 And as verbose as needed... TRUE...
-AND free to learn here.
+
+As verbose as I've ever needed;<br>
+10 year programmer. Should<br>
+be fun to share. But, the<br>
+<i>guaranteed-proof?</i> that<br>
+is harder to believe.<br>
+R#138♦️ isn't a <br>
+"real card", but it<br>
+is an early made cards. <br>
+
 
 DS
 
-Post Signature: lots of easy rules!
-Any language!!
+Post Signature: lots of easy rules!<br>
+Any language!! Making Classes, <br>
+Models, Charters & Rules.
