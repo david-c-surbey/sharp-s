@@ -4,14 +4,19 @@
   Even cards mean logged in.
 <i> perfect start</i>
 
-Data?  Indexes?  Classes to
-Models:   ¡Language!
+Classes to Models:
 
 <p>
-  <h3>Language to lookup</h3> 
-  <i>With pictograph as the guessers lead-in, or to say 'symbols' like above, the hearts and diamonds or clubs you might assign as labels. A databasing example could include all your Spade files to be pair-matching, meaning, without the needed 2-of-spade-form, a pair match file for a user file is still incomplete. <br>
-e-z stuff
-</i>
+  <h3>Codeable Lookup</h3> 
+  <i>With pictograph as the guessers lead-in, or to say 'symbols' like above, the hearts and diamonds or clubs you might assign as labels. A databasing example could include all your Spade files to be pair-matching, meaning, without the needed 2-of-spade-form, a pair match file for a user file is still incomplete.
+</i><br>
+The goal of sharp#s being: coded lookup for reporting is could anywhere add in the same engineering, a readable database. By industry standard: easy Extraction Translate and Load or Logistic then Transform. ETL's and ELT's are easy hours deeper...
+<br>To me, they've put hours ahead by skipping the programmer's basics from school.
+"Data, restful, should, and for grades, does rest restfully type-checked, at submission, for grades." To take a photo captures every piece at grade turn in and the number 5 was/is an example of where 5.5 being an example can break computers. 5.0 would be fine as it adds to the decimal places but not if anyone expected 5. Nevermind finding the fix for it...
+Everything got saved with it, right
+ wrong,
+ or even yet. Then everyone has to go find it to change it.
+
 </p>
 
 Traditionally, Classes and Models have governed how data grades. At best, it fits the model or the class can find it; like a type of any model the class is responsible for the record, overall.
