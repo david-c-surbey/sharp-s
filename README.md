@@ -61,5 +61,4 @@ is an early made cards. <br>
 DS
 
 Post Signature: lots of easy rules!<br>
-Any language!! Making Classes, <br>
-Models, Charters & Rules.
+Making Classes, Models, Charters & Rules.
