@@ -1,16 +1,19 @@
 # sharp-s
-For transactional databasing; Language to propose the following: "Class Model in Assembly vi: Deck(s) of Card(s) saved directly into Real-Time-Web-Program."
+<p>
+  For transactional databasing; Language to propose the following: "Class Model in Assembly vi: Deck(s) of Card(s) saved directly into Real-Time-Web-Program."
+</p>
 
-Take any standard fifty-two deck, and imagine dedicating the:
-deck-back, as in color,
-blue or red or punched,
-any number of decks
-possible; you'd 
-know your rule
-over-all says:
-Ace thru 2,
-when in/is
-ready, do
+Take any standard fifty-two deck<br>
+and imagine dedicating the:<br>
+deck-back, as in colorful,<br>
+blue or red or stamp'd,<br>
+any number of decks<br>
+possible; you'd<br>
+know your rule<br>
+over-all says:<br>
+Ace thru 2,<br>
+when in/is<br>
+ready, do<br>
 and or <br>
 d'nt.<br>
 <b>¡ True; each card ruled !</b><br>
@@ -42,4 +45,5 @@ AND free to learn here.
 
 DS
 
-DS
+Post Signature: lots of easy rules!
+Any language!!
