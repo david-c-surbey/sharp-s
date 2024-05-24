@@ -1,7 +1,17 @@
 # sharp-s
+ ♤ ♡ ♢ ♧
+  Ace to count; carry the 2!
+  Even cards mean logged in.
+<i> perfect start</i>
+
+Data?  Indexes?  Classes to
+Models:   ¡Language!
 
 <p>
-  <i>With pictograph as lead, in unique strings to unique value constraints overall, a databasing example.</i>
+  <h3>Language to lookup</h3> 
+  <i>With pictograph as the guessers lead-in, or to say 'symbols' like above, the hearts and diamonds or clubs you might assign as labels. A databasing example could include all your Spade files to be pair-matching, meaning, without the needed 2-of-spade-form, a pair match file for a user file is still incomplete. <br>
+e-z stuff
+</i>
 </p>
 
 Traditionally, Classes and Models have governed how data grades. At best, it fits the model or the class can find it; like a type of any model the class is responsible for the record, overall.
