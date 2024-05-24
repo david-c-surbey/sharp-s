@@ -1,4 +1,13 @@
 # sharp-s
+
+<p>
+  <i>With pictograph as lead, in unique strings to unique value constraints overall, a databasing example.</i>
+</p>
+
+Traditionally, Classes and Models have governed how data grades. At best, it fits the model or the class can find it; like a type of any model the class is responsible for the record, overall.
+
+Another way said to bring the Model and let moved up examples
+where, with Classes eventually agreeing, any programmer read it all correct and the additional 
 <p>
   For transactional databasing; Language to propose the following: "Class Model in Assembly vi: Deck(s) of Card(s) saved directly into Real-Time-Web-Program."
 </p>
