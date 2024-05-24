@@ -3,20 +3,26 @@
   For transactional databasing; Language to propose the following: "Class Model in Assembly vi: Deck(s) of Card(s) saved directly into Real-Time-Web-Program."
 </p>
 
-Take any standard fifty-two deck<br>
-and imagine dedicating the:<br>
-deck-back, as in colorful,<br>
-blue or red or stamp'd,<br>
-any number of decks<br>
-possible; you'd<br>
-know your rule<br>
-over-all says:<br>
-Ace thru 2,<br>
-when in/is<br>
-ready, do<br>
-and or <br>
-d'nt.<br>
-<b>¡ True; each card ruled !</b><br>
+<p>
+  Take any standard card deck,<br>
+fifty-two-(52) is easily<br>
+imaginable. Dedicating the:<br>
+deck-back, first, last?<br>
+That's up to you...
+</p>
+
+The suites are most important.<br>
+Traditionally, the 4:<br>
+Spades<br>
+Diamonds<br>
+Clubs<br>
+and lastly Hearts.<br>
+
+Sharp#s should be an easy way to learn to pattern your data that
+ANY large scale database is
+easily manageable.
+
+
 
 To describe different databases, 
 each rule set you could apply! 
