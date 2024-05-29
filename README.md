@@ -11,7 +11,7 @@ Databasing and Programming<br>
 
 <p>
 
- Most computers can find, these days, any record made. You don't HAVE to be where the record is most likely to make a record. Your computer can search a file from any other folder or directory. But back in the day, you would be at a desk typing out the record and taking a piece of paper to the database or file-cabinet.
+ Most computers can find, these days anyway, any record made. You don't HAVE to be where the record is most likely made to make a lookup of a record. Your computer can search a file from any other folder or directory; but back in the day, you would be at a desk typing out the record and taking a piece of paper to the database or file-cabinet, by hand, and if it wasn't a good record, each piece proper, it would/could get lost.
 </p>
 
 <p>
