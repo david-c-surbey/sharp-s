@@ -1,13 +1,39 @@
-# sharp#s<br>
+sharp#s<br>
  ♤ ♡ ♢ ♧<br>
-  Ace to count; carry the 2!<br>
-  Even cards mean logged in.<br>
-<i> perfect start</i><br>
+Databasing and Programming<br>
 
-Classes to Models:
+<h3>Classes to Models:</h3>
+<p>
+
+  Apparent to most, a way to pair match data, in structured want, is to find where a dual set of conditions will confirm a record or file is true, correct, and if you hit save it will count as a good and re-readable record. That once you hit save, you'll be returned the record as you're at where those records are shown. 
+  
+</p>
 
 <p>
-  <h3>Codeable Lookup</h3> 
+
+ Most computers can find, these days, any record made. You don't HAVE to be where the record is most likely to make a record. Your computer can search a file from any other folder or directory. But back in the day, you would be at a desk typing out the record and taking a piece of paper to the database or file-cabinet.
+</p>
+
+<p>
+
+ The fact was, for computers to let someone make an entry, the impossible would come about. Every typist had a few examples of what they could provide, typed out for you, and it could sit in the database or filed into the cabinet, as it was paper, since it would match 'boss-given-examples.' Each typist could confirm they used a Model, or example, to proof ahead of time the record made for you. Compared twice by a 'classy-typist', where the Class they are rests assured as the 'boss-designated-double-checker', assures all the typing that day was by Model example; no matter whom was typing...
+</p>
+<p>
+
+ Sounds plausible and possible today but the fundamentals had not been a gift; until the pieces of paper became digital, the arguments lead only where in setting up and whichever digital version might arrive into pre-planning. Everything else was held by fewer than a handful of people as they did the typing...
+</p>
+ 
+<p>
+ How could you structure the argument around for every example to match with rules around? Where any requested typing, each model-example and classy-touch guaranteeing the record sits and is good, readable again?
+</p>
+<p>
+ 
+</p>
+<h3>Blocks:</h3>
+
+<h3>Indexes to Chart-of-Accounts:</h3>
+
+<p>
   <i>With pictograph as the guessers lead-in, or to say 'symbols' like above, the hearts and diamonds or clubs you might assign as labels. A databasing example could include all your Spade files to be pair-matching, meaning, without the needed 2-of-spade-form, a pair match file for a user file is still incomplete.
 </i><br>
 The goal of sharp#s being: coded lookup for reporting is could anywhere add in the same engineering, a readable database. By industry standard: easy Extraction Translate and Load or Logistic then Transform. ETL's and ELT's are easy hours deeper...
