@@ -1,8 +1,8 @@
-# sharp-s
- ♤ ♡ ♢ ♧
-  Ace to count; carry the 2!
-  Even cards mean logged in.
-<i> perfect start</i>
+# sharp#s<br>
+ ♤ ♡ ♢ ♧<br>
+  Ace to count; carry the 2!<br>
+  Even cards mean logged in.<br>
+<i> perfect start</i><br>
 
 Classes to Models:
 
