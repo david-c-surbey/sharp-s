@@ -5,7 +5,13 @@ Databasing and Programming<br>
 <h3>Classes to Models:</h3>
 <p>
 
-  Apparent to most, a way to pair match data, in structured want, is to find where a dual set of conditions will confirm a record or file is true, correct, and if you hit save it will count as a good and re-readable record. That once you hit save, you'll be returned the record as you're at where those records are shown. 
+  I've found many ways to setup a database or program that, for the end-user, you'll find translated into symbols like the above; where, if you're looking to <b>program</b> or try your hand at software writing at all, you'd be ahead. 
+  
+  Most in this, traditionally, are likely going to try and show what and why and where, and this might be only the <i>how</i> with examples to get started. 
+  
+  
+  Why I'm trying anything here is a great way to understand what i hope is an entrance to web-servrr programming and some shorthand into databasing you'd say, won't structure a changeset <b>unique</b> until late in the overall. <br>
+ Even beginners...
   
 </p>
 
