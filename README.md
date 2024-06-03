@@ -2,14 +2,13 @@ sharp#s<br>
  ♤ ♡ ♢ ♧<br>
 Databasing and Programming<br>
 
-<h3>Classes to Models:</h3>
+<h3>Classes & Modeling</h3>
 <p>
+  I've found many ways to setup a database or program software that, for the you, an end-user, you'll find translated into symbols like the above, the easiest softwaring; where, if you're looking to <b>program</b> or try your hand at holding a new dataset together,<i>you'd be ahead</i>. 
+  
+  Most in this, traditional way, are likely going to try and show what and why and where, and what i might be able to lend may only be the <i>how</i> with examples to get started that match some why and where. 'Whats' aren't exactly less than the entire language broached by an author; 'what' each part of a language already has with examples and that language already available offline with a: full-base-level. Sharp#s should be considered like a shorthand. A quick-way.
+  
 
-  I've found many ways to setup a database or program that, for the end-user, you'll find translated into symbols like the above; where, if you're looking to <b>program</b> or try your hand at software writing at all, you'd be ahead. 
-  
-  Most in this, traditionally, are likely going to try and show what and why and where, and this might be only the <i>how</i> with examples to get started. 
-  
-  
   Why I'm trying anything here is a great way to understand what i hope is an entrance to web-servrr programming and some shorthand into databasing you'd say, won't structure a changeset <b>unique</b> until late in the overall. <br>
  Even beginners...
   
