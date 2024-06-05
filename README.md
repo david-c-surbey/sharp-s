@@ -1,5 +1,5 @@
 <h1>sharp#s<br>
- ♤ - ♡ - ♢ - ♧</h1><br>
+♤-♡-♢-♧</h1><br>
 
 <h3>Classes & Modeling</h3>
 <p>
