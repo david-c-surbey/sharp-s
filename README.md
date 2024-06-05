@@ -1,4 +1,4 @@
-<span class='text-decoration/css' type='bold'>sharp#s</span><br>
+<span style='bold'>sharp#s</span><br>
  ♤ ♡ ♢ ♧<br>
 
 <h3>Classes & Modeling</h3>
