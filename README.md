@@ -1,6 +1,5 @@
-sharp#s<br>
+<span type='text-decoration bold'>sharp#s</span><br>
  ♤ ♡ ♢ ♧<br>
-Databasing and Programming<br>
 
 <h3>Classes & Modeling</h3>
 <p>
