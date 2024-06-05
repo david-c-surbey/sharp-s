@@ -1,13 +1,24 @@
 <h1>Sharp#s</h1>
-Programming in recursion; for object-oriented to compiling-languaged environments,<i>new-OR-existing</i>. <br>
+Programming in recursion; for object-oriented to compiling-languaged environments,<i>new-OR-existing</i>.<br>
 Even: <b>database-programming</b>!
 <h2>♧-♤-♡-♢</h2>
 
 <h3>Classes & Modeling</h3>
 <p>
-  I've found many ways to setup a database or program software that, for the you, an end-user, you'll find translated into symbols like the above, the easiest softwaring; where, if you're looking to <b>program</b> or try your hand at holding a new dataset together, <i>you'd be ahead</i>. 
-  
-  Most in this, traditional way, are likely going to try and show what and why and where, and what i might be able to lend may only be the <i>how</i> with examples to get started that match some why and where. 'Whats' aren't exactly less than the entire language broached by an author; 'what' each part of a language already has with examples and that language already available offline with a: full-base-level. Sharp#s should be considered like a shorthand. A quick-way.
+  I have found many ways to setup a database or program. A way that as software could, for the you, any end-user, enables easily enough any new computer user, to translate symbols like the above and if availabl'd, literate to finding their records amongst the entire database.<br>
+
+Imagine being weeks into computer programming, in the language you'd chose or already be required to try and find your data for your users...
+</p>
+
+<p> 
+  Most in this, traditional way, are likely going to try and show you a progression. <br>
+
+ Usually going <b>what</b> and <i>why</i> and <b>where</b>, and what i might be able to lend may only be the <i>how</i> with examples to get started that match some: why AND where. Some where OR why. <br>
+
+ 'Whats' aren't exactly less than the entire language broached by an author; 'what' each part of a language already has with examples and that, language AND already available'd offline education, with a: full-base-level example... they got that...<br>
+<i>I don't got that here...</i><br>
+
+ <underline>Sharp#s should be considered like a shorthand. A quick-way.
   
 
   Why I'm trying anything here is a great way to understand what i hope is an entrance to web-servrr programming and some shorthand into databasing you'd say, won't structure a changeset <b>unique</b> until late in the overall. <br>
@@ -33,11 +44,6 @@ Even: <b>database-programming</b>!
  How could you structure the argument around for every example to match with rules around? Where any requested typing, each model-example and classy-touch guaranteeing the record sits and is good, readable again?
 </p>
 <p>
- 
-</p>
-<h3>Blocks:</h3>
-
-<h3>Indexes to Chart-of-Accounts:</h3>
 
 <p>
   <i>With pictograph as the guessers lead-in, or to say 'symbols' like above, the hearts and diamonds or clubs you might assign as labels. A databasing example could include all your Spade files to be pair-matching, meaning, without the needed 2-of-spade-form, a pair match file for a user file is still incomplete.
@@ -130,18 +136,6 @@ could use to store and say:
 And as large as you'd need... TRUE.
 And as verbose as needed... TRUE...
 
-As verbose as I've ever needed;<br>
-10 year programmer. Should<br>
-be fun to share. But, the<br>
-<i>guaranteed-proof?</i> that<br>
-is harder to believe.<br>
-R#138♦️ isn't a <br>
-"real card", but it<br>
-is an early made cards. <br>
-
+Sincerely
 
 DS
-
-Post Signature: Sharp#s is for<br>
-making Classes, Models, <br>
-Charters & Rules.<br>
