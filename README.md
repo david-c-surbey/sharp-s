@@ -1,5 +1,5 @@
 <h1>Sharp#s</h1>
-Programming in recursion; for object-oriented to compiling-languaged environments, <i>new-OR-existing</i>; even: <b>database-programming</b>
+Programming in recursion; for object-oriented to compiling-languaged environments,<i>new-OR-existing</i>; even: <b>database-programming</b>.
 <h2>♧-♤-♡-♢</h2>
 
 <h3>Classes & Modeling</h3>
