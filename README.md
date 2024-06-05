@@ -1,7 +1,5 @@
-<h1>sharp#s<br>
-♧-♤-♡-♢<br>
-<,4#,$,@-~,>,<-,<br>
-[01, .., any-remaining-values"]</h1><br>
+<h1>sharp#s</h1>
+<h2>♧-♤-♡-♢</h2>
 
 <h3>Classes & Modeling</h3>
 <p>
