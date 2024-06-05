@@ -1,4 +1,5 @@
-<h1>sharp#s</h1>
+<h1>Sharp#s</h1>
+Programming in recursion; for object-oriented to compiling-languaged environments, new-to-existing, and their: databases!
 <h2>♧-♤-♡-♢</h2>
 
 <h3>Classes & Modeling</h3>
