@@ -1,8 +1,25 @@
+<p>
 <h1>Sharp#s</h1>
 Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. <br >
 For environments, <i>new-OR-existing</i>.<br>
-Even for: <b>beginers</b>.<br> Sharp#s: for computers...for user(s)!
+Even for: <b>introduction of Programming and Coding Software</b>.<br>
+Sharp#s: for computers...for user(s)!
 <h2>♧-♤-♡-♢</h2>
+
+That's allot of promise above...
+Hard to teach anyone anything...
+But I was a tutor in college and that promise can be found, below, made while. Some card deck symbols, some letters or other values in a row, you OR the computer can read and find that. Truthfully, coding and programming. Is: A13#5 harder to read than: ♧-♤A-13th#form5?<br>
+
+Depends on typing in a ♧-♤ form on the screen or if, in your environment, you commit they'll lookup all the forms and the extra symbols help'd.<br>
+
+You and the computer can assist, sort, make, and delete data.<br>
+That's how the promise above, is.<br>
+DS
+
+Post Signature
+
+The rest of this will be simple concept to example to prove, with template, against common software development. You shouldn't feel: 'lost'. Shouldn't...
+</p>
 
 <h3>Classes & Modeling</h3>
 <p>
