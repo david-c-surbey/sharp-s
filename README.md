@@ -1,7 +1,7 @@
 <h1>Sharp#s</h1>
 Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. <br >
 For environments, <i>new-OR-existing</i>.<br>
-Even: <b>programming-beginers</b>, friendly!
+Even: <b>beginers</b>, to programming, to database setup, should find Sharp#s: <i>friendly</i>!
 <h2>♧-♤-♡-♢</h2>
 
 <h3>Classes & Modeling</h3>
