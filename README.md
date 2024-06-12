@@ -7,9 +7,22 @@ Even for: <b>introduction of Programming and Coding Software</b>.<br>
 
 That's allot of promise above...
 Hard to teach anyone anything...
-But I was a tutor in college and that promise can be found, below, made while. Some card deck symbols, some letters or other values in a row, you OR the computer can read and find that. Truthfully, coding and programming. Is: A13#5 harder to read than: ♧-♤A-13th#form5?<br>
+And: <b>non-introduction</b><i>?</i><br>
 
-Depends on typing in a ♧-♤ form on the screen or if, in your environment, you commit they'll lookup all the forms and the extra symbols help'd.<br>
+I was a tutor in college and not just on computers. Accounting, Math, whatever they needed WAS in the book so teaching it wasn't and learning it wasn't but tutoring. I could get anyone through any semester or class of school... we'd work together. 
+
+Truthfully, Coding and Programming is as simple as making a computer hold data, show data, and using more instruction to explain that data. From in a list to the top to be found important like urgent or new. From in a list to archived, put away after usefullness. From in a list to deleted. Sharp#s won't be the same as other instruction, you'd hope to learn something, But what you'll gather is it can be as simple as an example.<br>
+
+```
+For a website or a database, if you had lots of forms to fill out, would reading and writing in the search bar, is A13#5 harder to read or type out than: ♧-♤A-13th#form5?<br>
+♧♤:~a13#5?<br>
+♧♤A:13#5?<br>
+
+If you copied the example you built for ♡♢A to your 13#5 form, you'd probably be way there, right? 
+
+```
+
+<i>Depends on how many symbols you use, really.</i>
 
 You and the computer can assist, sort, make, and delete data.<br>
 That's how the promise above, is.<br>
