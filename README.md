@@ -1,8 +1,8 @@
 <p>
 <h1>Sharp#s</h1>
-Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. <br >
-For environments, <i>new-OR-existing</i>.<br>
-Even for: <b>introduction of Programming and Coding Software</b>.<br>
+Programming in recursion. Programming for Object-Oriented and/or Compiling/Fully-Functional languages. <br >
+For environments, <i>new-to-existing</i>.<br>
+Even for the: <b>introduction to Programming and Coding Software</b> inclined.<br>
 <h2>♧-♤-♡-♢</h2>
 
 That's allot of promise above...
