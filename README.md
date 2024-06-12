@@ -3,7 +3,6 @@
 Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. <br >
 For environments, <i>new-OR-existing</i>.<br>
 Even for: <b>introduction of Programming and Coding Software</b>.<br>
-Sharp#s: for computers...for user(s)!
 <h2>♧-♤-♡-♢</h2>
 
 That's allot of promise above...
