@@ -9,7 +9,7 @@ That's allot of promise above...
 Hard to teach anyone anything...
 And: <b>non-introduction</b><i>?</i><br>
 
-I was a tutor in college and not just on computers. Accounting, Math, whatever they needed WAS in the book so teaching it wasn't and learning it wasn't but tutoring. I could get anyone through any semester or class of school... we'd work together. 
+I was a tutor in college and not just upon computers as subjects go. Accounting, Math, whatever they needed WAS in the book they already had. So teaching it wasn't and learning it wasn't either. But 'tutoring', true. I could get <i>anyone</i> through <b>any</b> semester or class of school... we'd work together & their book had every answer.<br>
 
 Truthfully, Coding and Programming is as simple as making a computer hold data, show data, and using more instruction to explain that data. From in a list to the top to be found important like urgent or new. From in a list to archived, put away after usefullness. From in a list to deleted. Sharp#s won't be the same as other instruction, you'd hope to learn something, But what you'll gather is it can be as simple as an example.<br>
 
