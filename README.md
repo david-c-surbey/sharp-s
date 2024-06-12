@@ -1,5 +1,6 @@
 <h1>Sharp#s</h1>
-Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. For environments,<i>new-OR-existing</i>.<br>
+Programming in recursion. Programming for Object-Oriented to Compiling/Fully-Functional languages. <br >
+For environments, <i>new-OR-existing</i>.<br>
 Even: <b>programming-beginers</b>, friendly!
 <h2>♧-♤-♡-♢</h2>
 
