@@ -2,19 +2,25 @@
 <h1>Sharp#s</h1>
 Programming in recursion. Programming for Object-Oriented and/or Compiling/Fully-Functional languages. <br >
 For environments, <i>new-to-existing</i>.<br>
-Even for the: <b>introduction to Programming and Coding Software</b> inclined.<br>
+Even for new coders.<br>
 <h2>♧-♤-♡-♢</h2>
-
-That's allot of promise above...
-Hard to teach anyone anything...
-And: <b>non-introduction</b><i>?</i><br>
 
 I was a tutor in college and not just upon computers as subjects go. Accounting, Math, whatever they needed WAS in the book they already had. So teaching it wasn't and learning it wasn't either. But 'tutoring', true. I could get <i>anyone</i> through <b>any</b> semester or class of school... we'd work together & their book had every answer.<br>
 
 Truthfully, Coding and Programming is as simple as making a computer hold data, show data, and using more instruction to explain that data. From in a list to the top to be found important like urgent or new. From in a list to archived, put away after usefullness. From in a list to deleted. Sharp#s won't be the same as other instruction, you'd hope to learn something, But what you'll gather is it can be as simple as an example.<br>
 
 ```
-For a website or a database, if you had lots of forms to fill out, would reading and writing in the search bar, is A13#5 harder to read or type out than: ♧-♤A-13th#form5?<br>
+
+Databases
+
+Data in a computer can be saved all the way to a piece of paper; everything even labeling the printer have it's together the dataset you could then database or analyze. Allot different of a definition for a database. An analysis of the data is usually thought of as a reading and labeling of the database. Usually, an analysis is a process but, above, 'to-analyze', is true! Truer with possessive demarcation like 'to: analyze.' I'd want to analyze my database on a checklist of to-do's after capture; after the page label becomes true I'd wanna know where it ever became important. Might want to track every page and where it got called all day, had been important, and at the end of the month, analyze which is the most used. That's the traditional use of analysis. But a database being an analysis itself is true. When you set one up, if you're using this system, you could start in any and it itself change to make great databasing. 
+
+From SQL to other databasing languages... From Object-Oriented to Full-Function-Compile Languages...
+
+All of that will be stuff you learn and learn to remember you can lookup ever term on with himself and you'll never forgotten bookmarking by version number; the exact libraries are going to always have preciser help in emergency when you've only bookmarked your exact version. Sharp#s is hopefully, for you, going to show in examples of shorthand how to best try shorthand into database reading and programming wrote-out which will combine some confidence, wherever you decide to effort and in any language with/for, the: 'web'.<br>
+
+
+ search bar, is A13#5 harder to read or type out than: ♧-♤A-13th#form5?<br>
 ♧♤:~a13#5?<br>
 ♧♤A:13#5?<br>
 
