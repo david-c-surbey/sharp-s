@@ -1,3 +1,32 @@
+middle-build
+
+Create New App
+App name
+Give this app a globally unique name. For example, acme-production-app.
+sharps-web-first
+sharps-web-first is available
+App owner
+Location
+Choose a Common Runtime region for this app. Learn more.
+Common Runtime
+CEDAR
+United States
+Common Runtime
+CEDAR
+Europe
+
+Add this app to a pipeline
+Pipelines form a continuous deployment workflow and enable additional features. All apps in the same pipeline must be the same generation. Learn more.
+
+production
+Cedar
+Choose a stage to add this app to
+Create a new application named sharps-web-first in the production pipeline (production) as a personal app.
+
+
+---------
+
+
 containing-to-pertaining-to-with
 
 https://dashboard.heroku.com/apps/sharps-w-web-first/deploy/heroku-git
