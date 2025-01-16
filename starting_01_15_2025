@@ -4594,3 +4594,13 @@ Existing Git repository
 For existing repositories, simply add the heroku remote
 
 $ heroku git:remote -a staging-sharps
+
+
+
+adding-buildpack-on-staging-sharps
+
+-----> Building on the Heroku-24 stack
+-----> Using buildpack: heroku/ruby
+-----> App not compatible with buildpack: https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/ruby.tgz
+       More info: https://devcenter.heroku.com/articles/buildpacks#detection-failure
+ !     Push failed
