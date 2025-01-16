@@ -38,6 +38,37 @@ $ heroku git:remote -a sharps-w-web-first
 -added new branch, heroku-sharps, and let build every day, 6:00am to 7:00am. Perparing pacage now
 (https://github.com/david-c-surbey/sharp-s/actions/runs/12800373618/job/35688044458)
 -added production pipeline, added dyno cleanup after 1 day if unused, added wait on gitbuilds, true.
+--pipeline-xxxxxx-xxxxxx.herokuapp.com
+~~pipeline-production  or 
+~~pipeline-      -production.herokuapp.com
+
+##left let random; can add cross but sets any signal outloud
+
+Review app config vars
+Config vars set here are available to all review apps in this pipeline. If your review apps require secrets this is where you should set them.
+Review app config vars
+Hide Config Vars
+LOCALHOST =>
+127.0.0.1
+Edit Delete
+127.0.0.1 =>
+LOCALHOST
+Edit Delete
+LOCALHOST2 =>
+LOCALHOST
+Edit Delete
+SHARPS
+true
+Edit Delete
+LOCALHOST2
+LOCALHOST <- auto second file is true
+Edit Delete
+5thAND6th => LOCALHOST2QUOTE
+
+* makes for env variable count of 5 but/or 6; 
+with localhost and localhost2 in doublecount for referencing.
+
+Edit Delete
 
 
 
