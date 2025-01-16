@@ -55,6 +55,7 @@ For existing repositories, simply add the heroku remote
 
 $ heroku git:remote -a sharps-w-web-first
 
+https://sharps-w-web-first-0161f4f08587.herokuapp.com/
 
 
 -- steps~maybe
@@ -4455,3 +4456,141 @@ Running oryx...
 Finished configuring codespace.
 cp: cannot stat '/var/lib/docker/codespacemount/.persistedshare/vsserverhostlog.txt': No such file or directory
 cp: cannot stat '/var/lib/docker/codespacemount/.persistedshare/vsserverterminallog.txt': No such file or directory
+
+
+
+
+
+https://dashboard.heroku.com/apps/sharps-web-first/deploy/heroku-git
+https://sharps-web-first-c41cab9b7229.herokuapp.com/
+
+The Next Generation Platform is Coming - Get Ready Now!
+
+production
+
+sharps-web-first
+
+Open app
+More
+Overview Resources Deploy Metrics Activity Access Settings
+Connected to a pipeline
+Assigned to
+production
+in
+production
+Manage this pipeline and this app's stage on the pipeline overview
+Review apps are available on the pipeline overview
+Deployment method
+Heroku Git
+Use Heroku CLI
+ 
+GitHub
+Connect to GitHub
+ 
+Container Registry
+Use Heroku CLI
+Deploy using Heroku Git
+Use git in the command line or a GUI tool to deploy this app.
+Install the Heroku CLI
+Download and install the Heroku CLI.
+
+If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+
+$ heroku login
+Create a new Git repository
+Initialize a git repository in a new or existing directory
+
+$ cd my-project/
+$ git init
+$ heroku git:remote -a sharps-web-first
+Deploy your application
+Commit your code to the repository and deploy it to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
+If your default branch is master you can now change your main deploy branch from "master" to "main" for both manual and automatic deploys, please follow the instructions here.
+Existing Git repository
+For existing repositories, simply add the heroku remote
+
+$ heroku git:remote -a sharps-web-first
+
+
+staging sharps
+
+App name
+Give this app a globally unique name. For example, acme-production-app.
+staging-sharps
+staging-sharps is available
+App owner
+Location
+Choose a Common Runtime region for this app. Learn more.
+Common Runtime
+CEDAR
+United States
+Common Runtime
+CEDAR
+Europe
+
+Add this app to a pipeline
+Pipelines form a continuous deployment workflow and enable additional features. All apps in the same pipeline must be the same generation. Learn more.
+
+production
+Cedar
+Choose a stage to add this app to
+Create a new application named staging-sharps in the production pipeline (staging) as a personal app.
+
+
+
+
+https://dashboard.heroku.com/apps/staging-sharps/deploy/heroku-git
+https://staging-sharps-c4c245be26fb.herokuapp.com/
+
+production
+
+staging-sharps
+
+Open app
+More
+Overview Resources Deploy Metrics Activity Access Settings
+Connected to a pipeline
+Assigned to
+staging
+in
+production
+Manage this pipeline and this app's stage on the pipeline overview
+Review apps are available on the pipeline overview
+Deployment method
+Heroku Git
+Use Heroku CLI
+ 
+GitHub
+Connect to GitHub
+ 
+Container Registry
+Use Heroku CLI
+Deploy using Heroku Git
+Use git in the command line or a GUI tool to deploy this app.
+Install the Heroku CLI
+Download and install the Heroku CLI.
+
+If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+
+$ heroku login
+Create a new Git repository
+Initialize a git repository in a new or existing directory
+
+$ cd my-project/
+$ git init
+$ heroku git:remote -a staging-sharps
+Deploy your application
+Commit your code to the repository and deploy it to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
+If your default branch is master you can now change your main deploy branch from "master" to "main" for both manual and automatic deploys, please follow the instructions here.
+Existing Git repository
+For existing repositories, simply add the heroku remote
+
+$ heroku git:remote -a staging-sharps
