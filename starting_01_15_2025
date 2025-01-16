@@ -1,3 +1,5 @@
+containing-to-pertaining-to-with
+
 https://dashboard.heroku.com/apps/sharps-w-web-first/deploy/heroku-git
 
 Install the Heroku CLI
@@ -26,8 +28,7 @@ $ heroku git:remote -a sharps-w-web-first
 
 
 
--- receipt
-
+-- steps~maybe
 
 
 
@@ -36,6 +37,12 @@ $ heroku git:remote -a sharps-w-web-first
 -new branch in Github and deleted Chapters 1, 2, and 4.
 -added new branch, heroku-sharps, and let build every day, 6:00am to 7:00am. Perparing pacage now
 (https://github.com/david-c-surbey/sharp-s/actions/runs/12800373618/job/35688044458)
+-added production pipeline, added dyno cleanup after 1 day if unused, added wait on gitbuilds, true.
+
+
+
+---receipt_end-to-top
+
 
 40409e176b73: Pull complete 
 Digest: sha256:4da8fdd5ce2815ba943d9df53829d00aab20304ab93caad741874e135d56b026
