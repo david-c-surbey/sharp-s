@@ -24,4 +24,4 @@ https://guides.rubyonrails.org/install_ruby_on_rails.html
 
 ```
 
-see-also-attached-files-heroku forwindows and heroku forcli in windows
+see-also-attached-files-heroku for windows and heroku, for cli in windows; both files, unused so far.
