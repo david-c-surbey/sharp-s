@@ -9,6 +9,7 @@ https://devcenter.heroku.com/articles/getting-started-with-rails8
 --https://devcenter.heroku.com/articles/getting-started-with-rails6
 https://devcenter.heroku.com/articles/rack
 https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli
+https://devcenter.heroku.com/articles/heroku-cli-autocomplete
 https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment
 
 ```
