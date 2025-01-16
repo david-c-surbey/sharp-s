@@ -42,6 +42,8 @@ $ heroku git:remote -a sharps-w-web-first
 ~~pipeline-production  or 
 ~~pipeline-      -production.herokuapp.com
 
+
+
 ##left let random; can add cross but sets any signal outloud
 
 Review app config vars
@@ -69,6 +71,23 @@ Edit Delete
 with localhost and localhost2 in doublecount for referencing.
 
 Edit Delete
+
+
+
+Test run config vars
+Config vars set here are available to test runs on this pipeline. If your tests require secrets this is where you should set them.
+
+Test run config vars
+Hide Config Vars
+LOCAL_HOST =>
+LOCAL_HOST
+Edit Delete
+REMOTE_HOST =>
+REMOTE_HOST
+Edit Delete
+KEY
+VALUE
+Add
 
 
 
