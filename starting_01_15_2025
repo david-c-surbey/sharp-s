@@ -4615,3 +4615,13 @@ without-buildpack-on-sharps-without-web-first
 			HINT: This occurs when Heroku cannot detect the buildpack to use for this application automatically.
 			See https://devcenter.heroku.com/articles/buildpacks
  !     Push failed
+
+
+
+deploying simple build from Windows Direction Starting
+https://devcenter.heroku.com/articles/getting-started-with-jruby
+
+Deploying simple build from heroku starting
+https://devcenter.heroku.com/categories/ruby-support
+
+
