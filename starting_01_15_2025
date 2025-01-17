@@ -1,3 +1,62 @@
+middle-build
+
+Create New App
+App name
+Give this app a globally unique name. For example, acme-production-app.
+sharps-web-first
+sharps-web-first is available
+App owner
+Location
+Choose a Common Runtime region for this app. Learn more.
+Common Runtime
+CEDAR
+United States
+Common Runtime
+CEDAR
+Europe
+
+Add this app to a pipeline
+Pipelines form a continuous deployment workflow and enable additional features. All apps in the same pipeline must be the same generation. Learn more.
+
+production
+Cedar
+Choose a stage to add this app to
+Create a new application named sharps-web-first in the production pipeline (production) as a personal app.
+
+->01 /16/2025 ='s 1st, adding 
+
+cli usage starts with buildpacks heroku/ruby and heroku/npm deliverying installs the CLI should understand straight forwardedly with a push.
+No git code but configured with an Admin console, some simple settings, and maintenance on/off. Each account holder would trust such a large company, and the expenses they can exercise to have signed up 
+with such a simple system might easy-catch-their-eyes to SalesForce in free, easy steps.
+
+https://devcenter.heroku.com/articles/heroku-cli-autocomplete
+
+
+heroku logs in and might let git remote origins establish at
+
+https://git-scm.com/downloads
+installation for git in Windows for Heroku CLI 
+
+heroku git:put remote set-url https://github.com/david-c-surbey/sharp-s.git
+
+somewhere we can add to without it being wrecked on rebuild that our git can more than receive the waterfall, it can waterfall forward if we have it open as a pull for fork...
+Or we can find and make a push to origin with it.
+
+Might be slower than a Procfile and might be slower than a bundle exec config...
+Might show exactly WHAT theirs is when from the other point, we add their git's below and
+let us provide an over-ride file and it would let load a waterfall easily.
+
+Maybe...
+index.html right now to try.
+
+https://github.com/git-ecosystem/git-credential-manager
+git credential manager should let remote and origins and puts be easier to sort; if I recall correctly.
+
+---------
+
+
+containing-to-pertaining-to-with
+
 https://dashboard.heroku.com/apps/sharps-w-web-first/deploy/heroku-git
 
 Install the Heroku CLI
@@ -24,10 +83,10 @@ For existing repositories, simply add the heroku remote
 
 $ heroku git:remote -a sharps-w-web-first
 
+https://sharps-w-web-first-0161f4f08587.herokuapp.com/
 
 
--- receipt
-
+-- steps~maybe
 
 
 
@@ -36,6 +95,62 @@ $ heroku git:remote -a sharps-w-web-first
 -new branch in Github and deleted Chapters 1, 2, and 4.
 -added new branch, heroku-sharps, and let build every day, 6:00am to 7:00am. Perparing pacage now
 (https://github.com/david-c-surbey/sharp-s/actions/runs/12800373618/job/35688044458)
+-added production pipeline, added dyno cleanup after 1 day if unused, added wait on gitbuilds, true.
+--pipeline-xxxxxx-xxxxxx.herokuapp.com
+~~pipeline-production  or 
+~~pipeline-      -production.herokuapp.com
+
+
+
+##left let random; can add cross but sets any signal outloud
+
+Review app config vars
+Config vars set here are available to all review apps in this pipeline. If your review apps require secrets this is where you should set them.
+Review app config vars
+Hide Config Vars
+LOCALHOST =>
+127.0.0.1
+Edit Delete
+127.0.0.1 =>
+LOCALHOST
+Edit Delete
+LOCALHOST2 =>
+LOCALHOST
+Edit Delete
+SHARPS
+true
+Edit Delete
+LOCALHOST2
+LOCALHOST <- auto second file is true
+Edit Delete
+5thAND6th => LOCALHOST2QUOTE
+
+* makes for env variable count of 5 but/or 6; 
+with localhost and localhost2 in doublecount for referencing.
+
+Edit Delete
+
+
+
+Test run config vars
+Config vars set here are available to test runs on this pipeline. If your tests require secrets this is where you should set them.
+
+Test run config vars
+Hide Config Vars
+LOCAL_HOST =>
+LOCAL_HOST
+Edit Delete
+REMOTE_HOST =>
+REMOTE_HOST
+Edit Delete
+KEY
+VALUE
+Add
+
+
+
+---receipt_end-to-top
+
 
 40409e176b73: Pull complete 
 Digest: sha256:4da8fdd5ce2815ba943d9df53829d00aab20304ab93caad741874e135d56b026
@@ -4369,3 +4484,172 @@ Running oryx...
 Finished configuring codespace.
 cp: cannot stat '/var/lib/docker/codespacemount/.persistedshare/vsserverhostlog.txt': No such file or directory
 cp: cannot stat '/var/lib/docker/codespacemount/.persistedshare/vsserverterminallog.txt': No such file or directory
+
+
+
+
+
+https://dashboard.heroku.com/apps/sharps-web-first/deploy/heroku-git
+https://sharps-web-first-c41cab9b7229.herokuapp.com/
+
+The Next Generation Platform is Coming - Get Ready Now!
+
+production
+
+sharps-web-first
+
+Open app
+More
+Overview Resources Deploy Metrics Activity Access Settings
+Connected to a pipeline
+Assigned to
+production
+in
+production
+Manage this pipeline and this app's stage on the pipeline overview
+Review apps are available on the pipeline overview
+Deployment method
+Heroku Git
+Use Heroku CLI
+ 
+GitHub
+Connect to GitHub
+ 
+Container Registry
+Use Heroku CLI
+Deploy using Heroku Git
+Use git in the command line or a GUI tool to deploy this app.
+Install the Heroku CLI
+Download and install the Heroku CLI.
+
+If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+
+$ heroku login
+Create a new Git repository
+Initialize a git repository in a new or existing directory
+
+$ cd my-project/
+$ git init
+$ heroku git:remote -a sharps-web-first
+Deploy your application
+Commit your code to the repository and deploy it to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
+If your default branch is master you can now change your main deploy branch from "master" to "main" for both manual and automatic deploys, please follow the instructions here.
+Existing Git repository
+For existing repositories, simply add the heroku remote
+
+$ heroku git:remote -a sharps-web-first
+
+
+staging sharps
+
+App name
+Give this app a globally unique name. For example, acme-production-app.
+staging-sharps
+staging-sharps is available
+App owner
+Location
+Choose a Common Runtime region for this app. Learn more.
+Common Runtime
+CEDAR
+United States
+Common Runtime
+CEDAR
+Europe
+
+Add this app to a pipeline
+Pipelines form a continuous deployment workflow and enable additional features. All apps in the same pipeline must be the same generation. Learn more.
+
+production
+Cedar
+Choose a stage to add this app to
+Create a new application named staging-sharps in the production pipeline (staging) as a personal app.
+
+
+
+
+https://dashboard.heroku.com/apps/staging-sharps/deploy/heroku-git
+https://staging-sharps-c4c245be26fb.herokuapp.com/
+
+production
+
+staging-sharps
+
+Open app
+More
+Overview Resources Deploy Metrics Activity Access Settings
+Connected to a pipeline
+Assigned to
+staging
+in
+production
+Manage this pipeline and this app's stage on the pipeline overview
+Review apps are available on the pipeline overview
+Deployment method
+Heroku Git
+Use Heroku CLI
+ 
+GitHub
+Connect to GitHub
+ 
+Container Registry
+Use Heroku CLI
+Deploy using Heroku Git
+Use git in the command line or a GUI tool to deploy this app.
+Install the Heroku CLI
+Download and install the Heroku CLI.
+
+If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+
+$ heroku login
+Create a new Git repository
+Initialize a git repository in a new or existing directory
+
+$ cd my-project/
+$ git init
+$ heroku git:remote -a staging-sharps
+Deploy your application
+Commit your code to the repository and deploy it to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
+If your default branch is master you can now change your main deploy branch from "master" to "main" for both manual and automatic deploys, please follow the instructions here.
+Existing Git repository
+For existing repositories, simply add the heroku remote
+
+$ heroku git:remote -a staging-sharps
+
+
+
+adding-buildpack-on-staging-sharps
+
+-----> Building on the Heroku-24 stack
+-----> Using buildpack: heroku/ruby
+-----> App not compatible with buildpack: https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku/ruby.tgz
+       More info: https://devcenter.heroku.com/articles/buildpacks#detection-failure
+ !     Push failed
+
+
+
+without-buildpack-on-sharps-without-web-first
+
+-----> Building on the Heroku-24 stack
+-----> Determining which buildpack to use for this app
+ !     No default language could be detected for this app.
+			HINT: This occurs when Heroku cannot detect the buildpack to use for this application automatically.
+			See https://devcenter.heroku.com/articles/buildpacks
+ !     Push failed
+
+
+
+deploying simple build from Windows Direction Starting
+https://devcenter.heroku.com/articles/getting-started-with-jruby
+
+Deploying simple build from heroku starting
+https://devcenter.heroku.com/categories/ruby-support
+
+
