@@ -25,5 +25,3 @@ https://guides.rubyonrails.org/install_ruby_on_rails.html
 
 ```
 
-see-also-attached-files-heroku forwindows and heroku forcli in windows
-https://devcenter.heroku.com/articles/github-integration-review-apps#changes
