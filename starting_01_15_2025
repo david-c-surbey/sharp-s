@@ -31,6 +31,24 @@ with such a simple system might easy-catch-their-eyes to SalesForce in free, eas
 
 https://devcenter.heroku.com/articles/heroku-cli-autocomplete
 
+
+heroku logs in and might let git remote origins establish at
+
+https://git-scm.com/downloads
+installation for git in Windows for Heroku CLI 
+
+heroku git:put remote set-url https://github.com/david-c-surbey/sharp-s.git
+
+somewhere we can add to without it being wrecked on rebuild that our git can more than receive the waterfall, it can waterfall forward if we have it open as a pull for fork...
+Or we can find and make a push to origin with it.
+
+Might be slower than a Procfile and might be slower than a bundle exec config...
+Might show exactly WHAT theirs is when from the other point, we add their git's below and
+let us provide an over-ride file and it would let load a waterfall easily.
+
+Maybe...
+index.html right now to try.
+
 ---------
 
 
